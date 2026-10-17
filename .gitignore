@@ -1,0 +1,9 @@
+out/
+*.class
+
+doxydocs/
+javadocs/
+
+commands.txt
+
+.vscode/
